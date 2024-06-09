@@ -62,7 +62,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 # Visitors
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=180&t=n&d=O4Okz4olc3roRJQ93m9GBkRren5m0vPndwfEGGemj4E'></script>
+<body>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=O4Okz4olc3roRJQ93m9GBkRren5m0vPndwfEGGemj4E'></script>
+</body>
 
 
 
