@@ -41,7 +41,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 **Maofan Zhao**, Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
