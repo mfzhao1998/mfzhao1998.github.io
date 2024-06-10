@@ -46,7 +46,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/tgrs2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision](https://ieeexplore.ieee.org/abstract/document/10476394)
@@ -58,7 +58,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/tgrs2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Local and Long-Range Collaborative Learning for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10093899)
