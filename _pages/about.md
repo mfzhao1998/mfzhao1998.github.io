@@ -69,14 +69,19 @@ I have published more than 100 papers at the top international AI conferences wi
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
 ## 2024 
 - [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
+
 ## 2023 
 - [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
+
 ## 2022 
 - [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
+
 ## 2021 
 - [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
+
 ## 2020 
 - [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
 
