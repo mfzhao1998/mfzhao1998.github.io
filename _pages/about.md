@@ -26,8 +26,11 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04*: &nbsp;🎉🎉 One co-authored paper has been accepted by JAG ([link](https://www.sciencedirect.com/science/article/pii/S1569843224001523))!.
+- *2022.04*: &nbsp;🎉🎉 One co-authored paper has been accepted by TGRS ([link](https://ieeexplore.ieee.org/abstract/document/10496710))!.
+- *2022.03*: &nbsp;🎉🎉 One paper has been accepted by RSE ([link](https://www.sciencedirect.com/science/article/abs/pii/S0034425724001238))!.
+- *2022.03*: &nbsp;🎉🎉 One paper has been accepted by TGRS ([link](https://ieeexplore.ieee.org/abstract/document/10476394))!.
+- *2022.02*: &nbsp;🎉🎉 One co-authored paper has been accepted by JAG ([link](https://www.sciencedirect.com/science/article/pii/S1569843224000505))!. 
 
 # 📝 Publications 
 
