@@ -33,15 +33,15 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2022.02*: &nbsp;🎉 One co-authored paper has been accepted by JAG ([link](https://www.sciencedirect.com/science/article/pii/S1569843224000505))!
 
 # 📝 Publications 
-## Seleted 
+## Selected 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision](https://ieeexplore.ieee.org/abstract/document/10476394)
+[Towards robust classification of multi-view remote sensing images with partial data availability](https://www.sciencedirect.com/science/article/pii/S0034425724001238?via%3Dihub)
 
-**Maofan Zhao**, Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone
+**Maofan Zhao**, Qingyan Meng, Lifeng Wang, Linlin Zhang, Xinli Hu, Wenxu Shi
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0034425724001238?via%3Dihub) | [**Code**](https://github.com/mfzhao1998/multi_view_incomplete_learning) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -71,33 +71,33 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 
 ## 2024 
-- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://www.sciencedirect.com/science/article/pii/S1569843224001523?via%3Dihub), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, International Journal of Applied Earth Observation and Geoinformation (JAG), 2024
+- [Towards robust classification of multi-view remote sensing images with partial data availability](https://www.sciencedirect.com/science/article/pii/S0034425724001238?via%3Dihub),  **Maofan Zhao**, Qingyan Meng, Lifeng Wang, Linlin Zhang, Xinli Hu, Wenxu Shi, **Remote Sensing of Environment (RSE)**, 2024
+
+- [Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision](https://ieeexplore.ieee.org/document/10476394), **Maofan Zhao**,  Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone, **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2024
   
-- [Towards robust classification of multi-view remote sensing images with partial data availability](https://www.sciencedirect.com/science/article/pii/S0034425724001238?via%3Dihub),  Maofan Zhao, Qingyan Meng, Lifeng Wang, Linlin Zhang, Xinli Hu, Wenxu Shi, Remote Sensing of Environment (RSE), 2024
- 
-- [A Novel Approach to Incomplete Multimodal Learning for Remote Sensing Data Fusion](https://ieeexplore.ieee.org/document/10496710), Yuxing Chen, Maofan Zhao, Lorenzo Bruzzone, IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024
- 
-- [Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision](https://ieeexplore.ieee.org/document/10476394), Maofan Zhao,  Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone, IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024
- 
-- [A multimodal fusion framework for urban scene understanding and functional identification using geospatial data](https://www.sciencedirect.com/science/article/pii/S1569843224000505?via%3Dihub), Chen Su, Xinli Hu, Qingyan Meng, Linlin Zhang, Wenxu Shi, Maofan Zhao, International Journal of Applied Earth Observation and Geoinformation (JAG), 2024
+- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://www.sciencedirect.com/science/article/pii/S1569843224001523?via%3Dihub), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, **Maofan Zhao**, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG)**, 2024
+  
+- [A Novel Approach to Incomplete Multimodal Learning for Remote Sensing Data Fusion](https://ieeexplore.ieee.org/document/10496710), Yuxing Chen, **Maofan Zhao**, Lorenzo Bruzzone, **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2024
+
+- [A multimodal fusion framework for urban scene understanding and functional identification using geospatial data](https://www.sciencedirect.com/science/article/pii/S1569843224000505?via%3Dihub), Chen Su, Xinli Hu, Qingyan Meng, Linlin Zhang, Wenxu Shi, **Maofan Zhao**, **International Journal of Applied Earth Observation and Geoinformation (JAG)**, 2024
 
 ## 2023 
-- [Local and Long-Range Collaborative Learning for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10093899), Maofan Zhao, Qingyan Meng, Linlin Zhang, Xinli Hu,   Lorenzo Bruzzone, IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023
+- [Local and Long-Range Collaborative Learning for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10093899), **Maofan Zhao**, Qingyan Meng, Linlin Zhang, Xinli Hu, Lorenzo Bruzzone, **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2023
 
 ## 2022 
-- [DSANet: A Deep Supervision-Based Simple Attention Network for Efficient Semantic Segmentation in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/14/21/5399), Wenxu Shi, Qingyan Meng, Linlin Zhang, Maofan Zhao, Chen Su, Tamás Jancsó, Remote Sensing (RS), 2022
-
-- [Multilayer Feature Fusion Network With Spatial Attention and Gated Mechanism for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9770786),  Qingyan Meng, Maofan Zhao, Linlin Zhang, Wenxu Shi, Chen Su, Lorenzo Bruzzone, IEEE Geoscience and Remote Sensing Letters (GRSL), 2022
+- [Multilayer Feature Fusion Network With Spatial Attention and Gated Mechanism for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9770786),  Qingyan Meng, **Maofan Zhao#**, Linlin Zhang, Wenxu Shi, Chen Su, Lorenzo Bruzzone, **IEEE Geoscience and Remote Sensing Letters (GRSL)**, 2022
   
-- [How do urban morphological blocks shape spatial patterns of land surface temperature over different seasons? A multifactorial driving analysis of Beijing, China](https://www.sciencedirect.com/science/article/pii/S030324342100355X?via%3Dihub), Die Hu, Qingyan Meng, Uwe Schlink, Daniel Hertel, Wenxiu Liu, Maofan Zhao, Fengxiang Guo, International Journal of Applied Earth Observation and Geoinformation (JAG), 2022
+- [DSANet: A Deep Supervision-Based Simple Attention Network for Efficient Semantic Segmentation in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/14/21/5399), Wenxu Shi, Qingyan Meng, Linlin Zhang, **Maofan Zhao**, Chen Su, Tamás Jancsó, **Remote Sensing (RS)**, 2022
+  
+- [How do urban morphological blocks shape spatial patterns of land surface temperature over different seasons? A multifactorial driving analysis of Beijing, China](https://www.sciencedirect.com/science/article/pii/S030324342100355X?via%3Dihub), Die Hu, Qingyan Meng, Uwe Schlink, Daniel Hertel, Wenxiu Liu, **Maofan Zhao**, Fengxiang Guo, **International Journal of Applied Earth Observation and Geoinformation (JAG)**, 2022
 
 ## 2021 
-- [Developing a Method to Extract Building 3D Information from GF-7 Data](https://www.mdpi.com/2072-4292/13/22/4532), Jingyuan Wang, Xinli Hu, Qingyan Meng, Linlin Zhang, Chengyi Wang, Xiangchen Liu, Maofan Zhao, Remote Sensing (RS), 2021
+- [Developing a Method to Extract Building 3D Information from GF-7 Data](https://www.mdpi.com/2072-4292/13/22/4532), Jingyuan Wang, Xinli Hu, Qingyan Meng, Linlin Zhang, Chengyi Wang, Xiangchen Liu, **Maofan Zhao**, **Remote Sensing (RS)**, 2021
 
-- [Land Cover and Crop Classification Based on Red Edge Indices Features of GF-6 WFV Time Series Data](https://www.mdpi.com/2072-4292/13/22/4522), Yupeng Kang, Xinli Hu, Qingyan Meng, Youfeng Zou, Linlin Zhang, Maio Liu, Chen Su, Remote Sensing (RS), 2021
+- [Land Cover and Crop Classification Based on Red Edge Indices Features of GF-6 WFV Time Series Data](https://www.mdpi.com/2072-4292/13/22/4522), Yupeng Kang, Xinli Hu, Qingyan Meng, Youfeng Zou, Linlin Zhang, Maio Liu, **Maofan Zhao**, **Remote Sensing (RS)**, 2021
 
 ## 2020 
-- [A Fast and Effective Method for Unsupervised Segmentation Evaluation of Remote Sensing Images](https://www.mdpi.com/2072-4292/12/18/3005), Maofan Zhao, Qingyan Meng, Linlin Zhang,  Die Hu, Ying Zhang, Mona Allam, Remote Sensing (RS), 2020
+- [A Fast and Effective Method for Unsupervised Segmentation Evaluation of Remote Sensing Images](https://www.mdpi.com/2072-4292/12/18/3005), **Maofan Zhao**, Qingyan Meng, Linlin Zhang,  Die Hu, Ying Zhang, Mona Allam, **Remote Sensing (RS)**, 2020
 
 
 # 🎖 Honors and Awards
