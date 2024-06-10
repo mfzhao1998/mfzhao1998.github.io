@@ -61,11 +61,11 @@ I have published more than 100 papers at the top international AI conferences wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision](https://ieeexplore.ieee.org/abstract/document/10476394)
+[Local and Long-Range Collaborative Learning for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10093899)
 
-**Maofan Zhao**, Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone
+**Maofan Zhao**, Qingyan Meng, Linlin Zhang, Xinli Hu, Lorenzo Bruzzone
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
+[**Paper**](https://ieeexplore.ieee.org/document/10093899) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
