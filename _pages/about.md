@@ -42,7 +42,7 @@ I have published more than 100 papers at the top international AI conferences wi
 **Maofan Zhao**, Qingyan Meng, Lifeng Wang, Linlin Zhang, Xinli Hu, Wenxu Shi
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0034425724001238?via%3Dihub) | [**Code**](https://github.com/mfzhao1998/multi_view_incomplete_learning) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Propose a unified model to handle both complete views and missing view 
 </div>
 </div>
 
@@ -53,8 +53,8 @@ I have published more than 100 papers at the top international AI conferences wi
 
 **Maofan Zhao**, Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394)
+- Construct a weakly supervised learning (WSL) framework based on image-level labels for general change detection 
 </div>
 </div>
 
@@ -66,7 +66,7 @@ I have published more than 100 papers at the top international AI conferences wi
 **Maofan Zhao**, Qingyan Meng, Linlin Zhang, Xinli Hu, Lorenzo Bruzzone
 
 [**Paper**](https://ieeexplore.ieee.org/document/10093899) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Propose a local and long-range collaborative framework (L2RCF) for remote sensing scene classification that can fully collaborates CNNs and vision transformers. 
 </div>
 </div>
 
