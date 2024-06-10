@@ -46,12 +46,13 @@ I have published more than 100 papers at the top international AI conferences wi
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Outstanding Graduates of Beijing, Beijing Education Committee.
+- *2024* Excellent Prize of CAS President Scholarship, Chinese Academy of Sciences. 
+- *2018* Outstanding Prize of National Geomatics Contest in Programming, The State Bureau of Surveying and Mapping. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2024.06*, Ph.D., Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China. 
+- *2021.12 - 2023.11*, Visiting Student, University of Trento, Trento, Italy. 
 
 # 💻 Visitors
 <div width='50%'>
