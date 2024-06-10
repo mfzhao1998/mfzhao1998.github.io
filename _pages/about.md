@@ -53,7 +53,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 **Maofan Zhao**, Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394)
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394) | [**Code**](https://github.com/mfzhao1998/WSLCD)
 - Construct a weakly supervised learning (WSL) framework based on image-level labels for general change detection 
 </div>
 </div>
@@ -65,7 +65,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 **Maofan Zhao**, Qingyan Meng, Linlin Zhang, Xinli Hu, Lorenzo Bruzzone
 
-[**Paper**](https://ieeexplore.ieee.org/document/10093899) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
+[**Paper**](https://ieeexplore.ieee.org/document/10093899)  
 - Propose a local and long-range collaborative framework (L2RCF) for remote sensing scene classification that can fully collaborates CNNs and vision transformers 
 </div>
 </div>
