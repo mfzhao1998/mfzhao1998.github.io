@@ -82,16 +82,23 @@ I have published more than 100 papers at the top international AI conferences wi
 - [A multimodal fusion framework for urban scene understanding and functional identification using geospatial data](https://www.sciencedirect.com/science/article/pii/S1569843224000505?via%3Dihub), Chen Su, Xinli Hu, Qingyan Meng, Linlin Zhang, Wenxu Shi, Maofan Zhao, International Journal of Applied Earth Observation and Geoinformation (JAG), 2024
 
 ## 2023 
-- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, International Journal of Applied Earth Observation and Geoinformation (JAG), 2024
+- [Local and Long-Range Collaborative Learning for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10093899), Maofan Zhao, Qingyan Meng, Linlin Zhang, Xinli Hu,   Lorenzo Bruzzone, IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023
 
 ## 2022 
-- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, International Journal of Applied Earth Observation and Geoinformation (JAG), 2024
+- [DSANet: A Deep Supervision-Based Simple Attention Network for Efficient Semantic Segmentation in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/14/21/5399), Wenxu Shi, Qingyan Meng, Linlin Zhang, Maofan Zhao, Chen Su, Tamás Jancsó, Remote Sensing (RS), 2022
+
+- [Multilayer Feature Fusion Network With Spatial Attention and Gated Mechanism for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9770786),  Qingyan Meng, Maofan Zhao, Linlin Zhang, Wenxu Shi, Chen Su, Lorenzo Bruzzone, IEEE Geoscience and Remote Sensing Letters (GRSL), 2022
+  
+- [How do urban morphological blocks shape spatial patterns of land surface temperature over different seasons? A multifactorial driving analysis of Beijing, China](https://www.sciencedirect.com/science/article/pii/S030324342100355X?via%3Dihub), Die Hu, Qingyan Meng, Uwe Schlink, Daniel Hertel, Wenxiu Liu, Maofan Zhao, Fengxiang Guo, International Journal of Applied Earth Observation and Geoinformation (JAG), 2022
 
 ## 2021 
-- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, International Journal of Applied Earth Observation and Geoinformation (JAG), 2024
+- [Developing a Method to Extract Building 3D Information from GF-7 Data](https://www.mdpi.com/2072-4292/13/22/4532), Jingyuan Wang, Xinli Hu, Qingyan Meng, Linlin Zhang, Chengyi Wang, Xiangchen Liu, Maofan Zhao, Remote Sensing (RS), 2021
+
+- [Land Cover and Crop Classification Based on Red Edge Indices Features of GF-6 WFV Time Series Data](https://www.mdpi.com/2072-4292/13/22/4522), Yupeng Kang, Xinli Hu, Qingyan Meng, Youfeng Zou, Linlin Zhang, Maio Liu, Chen Su, Remote Sensing (RS), 2021
 
 ## 2020 
-- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, International Journal of Applied Earth Observation and Geoinformation (JAG), 2024
+- [A Fast and Effective Method for Unsupervised Segmentation Evaluation of Remote Sensing Images](https://www.mdpi.com/2072-4292/12/18/3005), Maofan Zhao, Qingyan Meng, Linlin Zhang,  Die Hu, Ying Zhang, Mona Allam, Remote Sensing (RS), 2020
+
 
 # 🎖 Honors and Awards
 - *2024* Outstanding Graduates of Beijing, Beijing Education Committee.
