@@ -34,6 +34,18 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 ## Seleted 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision](https://ieeexplore.ieee.org/abstract/document/10476394)
+
+**Maofan Zhao**, Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,7 +58,27 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision](https://ieeexplore.ieee.org/abstract/document/10476394)
+
+**Maofan Zhao**, Xinli Hu, Linlin Zhang, Qingyan Meng, Yuxing Chen, Lorenzo Bruzzone
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476394) | [**Code**](https://github.com/mfzhao1998/WSLCD) 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+## 2024 
+- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
+## 2023 
+- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
+## 2022 
+- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
+## 2021 
+- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
+## 2020 
+- [A deep learning framework for 3D vegetation extraction in complex urban environments](https://github.com), Jiahao Wu, Qingyan Meng, Liang Gao, Linlin Zhang, Maofan Zhao, Chen Su, **International Journal of Applied Earth Observation and Geoinformation (JAG) 2024**
 
 # 🎖 Honors and Awards
 - *2024* Outstanding Graduates of Beijing, Beijing Education Committee.
