@@ -34,7 +34,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 ## Selected 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2024</div><img src='images/rse2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards robust classification of multi-view remote sensing images with partial data availability](https://www.sciencedirect.com/science/article/pii/S0034425724001238?via%3Dihub)
