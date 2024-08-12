@@ -101,8 +101,8 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 🎖 Honors and Awards
-- *2024* Outstanding Graduates of Beijing, Beijing Education Committee.
-- *2024* Excellent Prize of CAS President Scholarship, Chinese Academy of Sciences. 
+- *2024* Outstanding Graduates of Beijing, Beijing Education Committee. (北京市优秀毕业生)
+- *2024* Excellent Prize of CAS President Scholarship, Chinese Academy of Sciences. (中国科学院院长优秀奖)
 - *2018* Special Prize of National Geomatics Contest in Programming, The State Bureau of Surveying and Mapping. 
 
 # 📖 Educations
